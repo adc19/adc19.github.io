@@ -1,9 +1,6 @@
 ---
 layout: home
-title: ADC Space
+title: Home
 ---
 
-# adc19.github.io
-
-## Blogs
-- [Post Quantum Cryptography](_posts/2026-01-06-Post-Quantum-Cryptography.md)
+Welcome to my blog! You can find the list of posts below

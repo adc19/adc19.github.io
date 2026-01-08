@@ -1,8 +1,7 @@
 domain: .github.io
 url: https://adc19.github.io
 
-# theme: jekyll-theme-minima
-theme: minima
+theme: jekyll-theme-minima
 
 author:
   name: Anubhav Dutta Choudhury
