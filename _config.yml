@@ -1,0 +1,13 @@
+domain: .github.io
+url: https://my-site.github.io
+
+# theme: jekyll-theme-minima
+theme: minima
+
+author:
+  name: Anubhav Dutta Choudhury
+  email: anubhavdc.wk@gmail.com
+
+minima:
+  skin: solarized-light
+  hide_site_feed_link: true
